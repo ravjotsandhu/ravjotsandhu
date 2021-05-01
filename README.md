@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning javscript,react.js,golang
+- 👯 I’m looking to collaborate on Frontend projects, Etherum blockchain based projects
+- 🤔 I’m looking for help with solidity
+
 <!--
 **RavjotSandhu/RavjotSandhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
