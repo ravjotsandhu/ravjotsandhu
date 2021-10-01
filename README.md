@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Open Suse Cloud Native Foundations course by Udacity via scholarship
 - 🌱 I’m currently learning javscript, react.js, golang
 - 👯 I’m looking to collaborate on Frontend projects, Ethereum blockchain based projects
 - 🤔 I’m looking for help with solidity
