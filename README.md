@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 🌱 I’m currently learning javscript, react.js, golang
+- 🌱 I’m currently learning full stack development and deep learning
 - 👯 I’m looking to collaborate on Frontend projects, Ethereum blockchain based projects
 - 🤔 I’m looking for help with solidity
-- Languages I'm proficient in currently: C++, Python
+- Languages I'm proficient in currently: C++, Python, Javascript
 <!--
 **RavjotSandhu/RavjotSandhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
