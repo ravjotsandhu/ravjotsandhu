@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning full stack development and deep learning
+- 🌱 I’m currently learning about deep learning, backend engineering
 - 👯 I’m looking to collaborate on Hackathons in bockchain, ML/DL and Devops
 - 🤔 I’m looking for help with Typescript
 - Languages I'm proficient in currently: C++, Python, Javascript
