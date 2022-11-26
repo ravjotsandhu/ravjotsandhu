@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **typescript**
 
-- 💬 Ask me about **web3 and prodcut engineering**
+- 💬 Ask me about **web3 and product engineering**
 
 - 📫 How to reach me **twitter**
 
