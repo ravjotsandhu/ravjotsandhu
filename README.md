@@ -39,8 +39,12 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RavjotSandhu&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
- 
+<p></p>
+
+ <p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavjotSandhu"/>
+</p>
+
 <!--
 **RavjotSandhu/RavjotSandhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
