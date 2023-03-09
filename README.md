@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Ravjot</h1>
-<h3 align="center">A passionate software engineer from India</h3>
+<h3 align="center">A student founder @<a href='https://www.yourtoken.io'>Yourtoken</a> and product engineer from India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravjotsandhu&label=Profile%20views&color=0e75b6&style=flat" alt="ravjotsandhu" /> </p>
 
-- 🌱 I’m currently learning **deep learning, backend engineering**
+- 🌱 I’m currently learning **all things product, branding, marketing**
 
 - 👯 I’m looking to collaborate on **Hackathons in bockchain, ML/DL and Devops**
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **web3 and product engineering**
 
-- 📫 How to reach me **twitter**
+- 📫 How to reach me **[Twitter](https://twitter.com/0xRavjot)**
 
 - ⚡ Fun fact **We might be living in simulation 😆**
  
