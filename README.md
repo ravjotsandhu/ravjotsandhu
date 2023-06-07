@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **all things product, branding, marketing**
 
-- 👯 I’m looking to collaborate on **Hackathons in bockchain, ML/DL and Devops**
+- 👯 I’m looking to collaborate on **Hackathons in blockchain, ML/DL and Devops**
 
-- 🤝 I’m looking for help with **typescript**
+- 🤝 I’m looking for help with **cors😭**
 
-- 💬 Ask me about **web3 and product engineering**
+- 💬 Ask me about **anything you want!**
 
 - 📫 How to reach me **[Twitter](https://twitter.com/0xRavjot)**
 
