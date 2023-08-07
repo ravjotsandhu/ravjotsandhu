@@ -5,21 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravjotsandhu&label=Profile%20views&color=0e75b6&style=flat" alt="ravjotsandhu" /> </p>
 
-- 🌱 I’m currently learning **all things product, branding, marketing**
-
-- 👯 I’m looking to collaborate on **Hackathons in blockchain, ML/DL and Devops**
-
-- 🤝 I’m looking for help with **cors😭**
-
-- 💬 Ask me about **anything you want!**
-
-- 📫 How to reach me **[Twitter](https://twitter.com/0xRavjot)**
-
-- ⚡ Fun fact **We might be living in simulation 😆**
- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Ravjot_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ravjot_" height="30" width="40" /></a>
+<a href="https://twitter.com/ravjotsandhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ravjot_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ravjotsandhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravjotsandhu" height="30" width="40" /></a>
 <a href="https://hashnode.com/@Ravjot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ravjot" height="30" width="40" /></a>
 </p>
