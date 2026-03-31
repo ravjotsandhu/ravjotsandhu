@@ -24,7 +24,7 @@
 ---
 
 #### Older builds
-
+- **[ai assisted cement manufacturing](https://github.com/GenAiworkprototype/dashboard)**
 - **[go-blockchain](https://github.com/ravjotsandhu/go-blockchain)** — Bitcoin-inspired blockchain implemented in Go
 - **[conversational-AI](https://github.com/ravjotsandhu/conversational-AI/tree/main/llm-implementations)** — BERT, GPT, and Transformers implemented from the original papers
 - **[getNoted](https://github.com/getNoted)** — Note-taking Chrome extension
