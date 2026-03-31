@@ -35,7 +35,4 @@ Most recent work is in private repos.
 ---
 
 ### Stack
-
-Currently working with Go, TypeScript, React, Next.js, Nest.js, Postgres, MongoDB, Redis
-
-Past work in Go, Python, Pytorch, TensorFlow, scikit-learn.
+[![My Skills](https://skillicons.dev/icons?i=go,ts,js,nodejs,postgres,redis,mongo,git,kubernetes,docker,c,cpp,bash,vim,arduino,autocad,azure,aws,python,pytorch,linux,nginx)](https://skillicons.dev)
