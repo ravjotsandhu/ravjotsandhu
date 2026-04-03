@@ -35,4 +35,4 @@ Most recent work is in private repos.
 ---
 
 ### Stack
-[![My Skills](https://skillicons.dev/icons?i=go,ts,js,nodejs,postgres,redis,mongo,git,kubernetes,docker,c,cpp,bash,vim,arduino,autocad,azure,aws,python,pytorch,linux,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,ts,js,nodejs,nestjs,nextjs,postgres,redis,mongo,git,rabbitmq,kubernetes,grafana,elasticsearch,cloudflaredocker,c,cpp,bash,vim,arduino,autocad,azure,aws,python,pytorch,linux,nginx,ubuntu)](https://skillicons.dev)
